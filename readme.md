@@ -36,3 +36,6 @@
 ---
     chrome://inspect/#devices
 
+参考
+---
+[cordova命令](http://www.hangge.com/blog/cache/detail_1158.html)
