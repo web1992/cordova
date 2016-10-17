@@ -6,5 +6,13 @@
         },
         "is_top_level": true,
         "variables": {}
+    },
+    "info.linlong.didisdk": {
+        "source": {
+            "type": "local",
+            "path": "/data/www/didisdk"
+        },
+        "is_top_level": true,
+        "variables": {}
     }
 }

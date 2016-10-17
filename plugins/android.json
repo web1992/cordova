@@ -9,6 +9,9 @@
     "installed_plugins": {
         "cordova-plugin-whitelist": {
             "PACKAGE_NAME": "cn.web1992.hello"
+        },
+        "info.linlong.didisdk": {
+            "PACKAGE_NAME": "cn.web1992.hello"
         }
     },
     "dependent_plugins": {}

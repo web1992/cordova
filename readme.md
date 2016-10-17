@@ -10,6 +10,7 @@
      cordova requirements
 
 重新构建插件依赖等
+---
     cordova platform update android --save
     cordova platform update ios --save
 
@@ -21,12 +22,17 @@
 添加插件
 ---
     cordova plugin add https://github.com/web1992/didisdk#0.0.1 --save
-
+    cordova plugin add /data/www/didisdk --save
+	
 查询插件
 ---
     cordova plugin ls
 
+删除插件
+----
+   cordova plugin rm info.linlong.didisdk
 
 谷歌调试：
 ---
     chrome://inspect/#devices
+
