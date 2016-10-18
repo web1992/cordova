@@ -4,6 +4,8 @@ Overview
 
 插件地址：[didisdk](https://github.com/web1992/didisdk)
 
+![](http://i.imgur.com/cXEKz9v.png)
+
 添加平台支持
 ---
     cordova platform add ios --save
