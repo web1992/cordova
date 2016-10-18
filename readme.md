@@ -21,7 +21,8 @@
 
 添加插件
 ---
-    cordova plugin add https://github.com/web1992/didisdk#0.0.1 --save
+    cordova plugin add https://github.com/web1992/didisdk#0.0.3 --save
+    # 或者把项目下载到本地，指定目录安装插件
     cordova plugin add /data/www/didisdk --save
 	
 查询插件
