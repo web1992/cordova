@@ -24,6 +24,8 @@ Overview
     cordova plugin add https://github.com/web1992/didisdk#0.0.3 --save
     # 或者把项目下载到本地，指定目录安装插件
     cordova plugin add /data/www/didisdk --save
+
+更多的插件安装命令 [cordova-cli](https://cordova.apache.org/docs/en/latest/reference/cordova-cli/index.html#deprecated-platforms)
 	
 查询插件
 ---
