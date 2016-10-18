@@ -1,4 +1,8 @@
+Overview
+---
+	cordova 滴滴打车插件demo
 
+插件地址：[didisdk](https://github.com/web1992/didisdk)
 
 添加平台支持
 ---
@@ -9,10 +13,6 @@
 ---
      cordova requirements
 
-重新构建插件依赖等
----
-    cordova platform update android --save
-    cordova platform update ios --save
 
 构建安卓apk
 ---
